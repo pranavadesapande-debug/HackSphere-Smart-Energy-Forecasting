@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "91968000000013050",
+      "name": "HackSphere-Energy-Forecast",
+      "domain": {
+        "id": "50047139716",
+        "name": "hacksphere-energy-forecast-60093101864.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60093101864",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

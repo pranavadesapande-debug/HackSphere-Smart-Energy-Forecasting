@@ -1,0 +1,13 @@
+zoho_token_response.json
+.env
+.env.*
+!.env.example
+catalyst-config.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
